@@ -202,6 +202,7 @@ h2 {
 .portfolio {
     background-color: lightgray;
     text-align: center;
+    // margin: 0 auto;
     padding-bottom: .5em;
     
     a {
@@ -209,9 +210,9 @@ h2 {
         font-size: 18px;
     
 
-        &:hover {
-            text-decoration: none;
-        }
+        // &:hover {
+        //     text-decoration: none;
+        // }
     }
     
     span {
